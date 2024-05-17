@@ -14,7 +14,7 @@ Prerequisites:
 
 Installation:
 
-	You will likely need to copy the code into the source directory of your WPILib project. I'm afraid I don't know much about the specifics at the moment. You'll likely need to use WPILib's import project command.
+	You should be able to download the full thing and open the project in WPILib. All you have to do is open the base project folder in WPILib and let Gradle run its initial build.
 
 Configuration:
 
